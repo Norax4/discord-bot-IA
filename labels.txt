@@ -1,0 +1,10 @@
+0 Odónatos
+1 Ortópteros
+2 Lepidópteros
+3 Dípteros
+4 Dictiópteros
+5 Ptirápteros
+6 Sifonápteros
+7 Hemípteros
+8 Coleópteros
+9 Himenopteros
